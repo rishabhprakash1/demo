@@ -6,4 +6,4 @@ This is a simple readme file.
 
 # Checking new modifications
 
-ON A BRANCH
+ON MASTER BRANCH
